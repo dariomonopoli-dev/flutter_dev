@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899424366747",
+    "project_id": "brew-crew-18cf6",
+    "storage_bucket": "brew-crew-18cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899424366747:android:e46d9afa30358cac89163e",
+        "android_client_info": {
+          "package_name": "com.mondra.brew_crew_2_def"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899424366747-rqicobrl8jl0fleokdnd6e8pskha0p6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX8-Pnh9aVcXUyxG_549QMKDPQKZBqvy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899424366747-rqicobrl8jl0fleokdnd6e8pskha0p6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
